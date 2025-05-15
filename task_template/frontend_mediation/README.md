@@ -1,5 +1,7 @@
 # The ReactJS frontend - the chat workspace version(for students) 
 
+**(This documentation is from the codebase found at [Collaborative AI Arena](https://github.com/AaltoRSE/CollaborativeAI/tree/main))**
+
 In here, you will find the description of this react task template, all its components and what you should keep in mind while using this as a baseline for inserting your own task. This version is a more confined one since it follows the structure of a workspace-chat structure: the workspace to the left presents the collaborative work between you and the AI while the chat space to the right shows the current conversation.**There are only 3 places that you need to modify. which are explained in section I, III, and IV**
 
 ## I. The environment file:

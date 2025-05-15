@@ -1,10 +1,10 @@
 # AI Mediator
 
-This repository contains an implementation of a text-based AI assistant for conversation mediation. The project was developed as part of the _Research Project in Human-Computer Interaction_ course at Aalto University.
+This repository contains my contributions to the implementation of a text-based AI assistant for conversation mediation. The project was developed as part of the _Research Project in Human-Computer Interaction_ course at Aalto University.
 
-The implementation builds on the Aalto University [Collaborative AI Arena](https://github.com/AaltoRSE/CollaborativeAI) template, which provided the core structure and baseline functionality for the system. This tool can be run locally by inserting the [/task_template](https://github.com/jsimell/AImediator/tree/main/task_template) folder from this repository into the corresponding location at the Collaborative AI Arena codebase, and following the instructions there.
+The implementation builds on the Aalto University [Collaborative AI Arena](https://github.com/AaltoRSE/CollaborativeAI) template, which provided the core structure and baseline functionality for the system. This tool can be run locally by inserting the files from the [/task_template](https://github.com/jsimell/AImediator/tree/main/task_template) folder to the corresponding locations at the Collaborative AI Arena codebase, and following the instructions there.
 
-While much of the code was provided as part of a template, I developed the following key components independently:
+In the project, I developed the following components:
 
 - **React Frontend:** 
 I developed a custom React-based user interface for the mediation task, using and extending the example templates provided in the [Collaborative AI Arena](https://github.com/AaltoRSE/CollaborativeAI) codebase. The source code of the mediator's frontend can be found at [/task_template/frontend_mediation/src](https://github.com/jsimell/AImediator/tree/main/task_template/frontend_mediation/src).
